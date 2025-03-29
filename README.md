@@ -1,7 +1,6 @@
 # About Me
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0.svg)](https://wakatime.com/@e75f6892-560e-4206-ae97-04d59c14c0a0)
 
 
 <div align="center">
