@@ -16,7 +16,7 @@
 
 **In my free time, I enjoy coding, drawing, creating Blender models and animations, and making videos and photos.**
 
-**It all started when I was 11 and wanted to make a Christmas website and design one for my mom. At first, I used Wix.com, but since I had to pay for storage, I switched to coding using an old, simple domain instead.****Link here**
+**It all started when I was 11 and wanted to make a Christmas website and design one for my mom. At first, I used Wix.com, but since I had to pay for storage, I switched to coding using an old, simple domain instead.**          **Link here**
 
 **After that, I took a break from coding.**
 
