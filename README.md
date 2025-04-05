@@ -14,11 +14,15 @@
 
 ## Hey
 
+**I'm Tobi, or Tobidervogel. I live in Germany and have been coding since 2021. I started with HTML and CSS, and I learned Python this year.**
 
-**I'm Tobi, or Tobidervogel. I live in Germany and have been coding since 2023. I started with HTML and CSS and learned Python this year.**  
+**In my free time, I enjoy coding, drawing, creating Blender models and animations, and making videos and photos.**
 
-**In my free time, I code, draw, create Blender models and animations, and make videos and photos.**  
-
-**It all started when I wanted to make a website for Christmas and design one for my mom. At first, I used Wix.com, but since I had to pay for storage, I tried coding with a simple old domain instead.**
+**It all started when I was 11 and wanted to make a Christmas website and design one for my mom. At first, I used Wix.com, but since I had to pay for storage, I switched to coding using an old, simple domain instead.**
+**Link here**
 
 **After that, I took a break from coding.**
+
+**Later, I started coding again (HTML and CSS) and built some cool websites.**
+
+**And now – here I am.**
