@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0.svg)](https://wakatime.com/@e75f6892-560e-4206-ae97-04d59c14c0a0)
 
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tobidervogel&theme=blueberry&hide_border=true" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobidervogel&theme=blueberry&hide_border=true&layout=compact&langs_count=8&card_width=320" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tobidervogel&theme=blueberry&hide_border=true" />
 
                                                                                       
 
