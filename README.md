@@ -54,6 +54,11 @@ I draw, make Blender models and animations, and create photos and videos. I also
 [View my WakaTime profile](https://wakatime.com/@e75f6892-560e-4206-ae97-04d59c14c0a0)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <sub>Tracked editor activity, when available; not a measure of experience or all project work.</sub>
