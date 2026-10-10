@@ -1,24 +1,65 @@
-# About Me
+![Tobi / Tobidervogel — code, hardware and a creative streak](assets/header.svg)
 
-[![wakatime](https://wakatime.com/badge/user/e75f6892-560e-4206-ae97-04d59c14c0a0.svg)](https://wakatime.com/@e75f6892-560e-4206-ae97-04d59c14c0a0)
+# Tobi · Tobidervogel
 
+I’m a maker from Germany. I started coding in 2021 with HTML and CSS, then picked up Python. I enjoy turning ideas into things I can use, from websites and personal apps to small hardware projects.
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tobidervogel&theme=blueberry&hide_border=true" />
+![Web](assets/web.svg) ![Python](assets/python.svg) ![Hardware](assets/hardware.svg) ![Blender](assets/blender.svg)
 
-                                                                                      
+[Explore my projects](#selected-projects) · [How I got started](#how-i-got-started) · [Beyond code](#beyond-code)
 
-## Hey
+## Selected projects
 
-**I'm Tobi, or Tobidervogel. I live in Germany and have been coding since 2021. I started with HTML and CSS, and I learned Python this year.**
+### 01 / Audio Recorder
 
-**In my free time, I enjoy coding, drawing, creating Blender models and animations, and making videos and photos.**
+A small, self-built recorder based on the **Seeed XIAO ESP32S3 Sense**. The current audio-only firmware records to microSD, supports Bluetooth control and checks recorded segments with SHA-256. The PC tools handle transcription and archiving.
 
-**It all started when I was 11 and wanted to make a Christmas website and design one for my mom. At first, I used Wix.com, but since I had to pay for storage, I switched to coding using an old, simple domain instead.**          **[Link here](https://www.jacob-familie.de/survivalmom)**
+**ESP32-S3 · C++ · Python · Bluetooth LE**
 
-**After that, I took a break from coding.**
+[Explore the firmware](https://github.com/Tobidervogel/Brain/tree/main/Projekte/Recorder%20und%20Live%20Up/Code/firmware/ar1) · [PC tools](https://github.com/Tobidervogel/Brain/tree/main/Projekte/Recorder%20und%20Live%20Up/Code/pc)
 
-**Later, I started coding again (HTML and CSS) and built some cool websites.**
+### 02 / Live Up
 
-**Then I learned Python, video and photo editing, and Blender – which is a language of its own, as huge and complex as it is.**
+My personal Android app, bringing food tracking, a wallet and finance tracker, driving-school progress, and recorder controls into one place. Built with **Kotlin and Jetpack Compose**.
 
-**And now – here I am.**
+**Android · Kotlin · Jetpack Compose**
+
+[Read the project notes](https://github.com/Tobidervogel/Brain/blob/main/Projekte/Recorder%20und%20Live%20Up/Notizen/Live%20Up.md)
+
+<sub>The links above point to a public snapshot dated October 10, 2026. Live Up’s documentation is included; its app source code is not.</sub>
+
+## What I like working with
+
+- **Web & scripting:** HTML, CSS and Python — where I started and tools I keep exploring.
+- **Apps & hardware:** connecting software to things I can actually use.
+- **Visual work:** Blender models and animations, drawing, photography and video editing.
+
+## How I got started
+
+My first ideas were a Christmas website and a website for my mom. I began with Wix, then moved to HTML and CSS when I wanted to build it myself without the paid storage limitation.
+
+After a break, I came back to coding, built more websites and started learning Python. Along the way, I also got into photo and video editing and the wonderfully large world of Blender.
+
+That mix of code and creativity is still what I enjoy.
+
+[An early website: Survivalmom](https://www.jacob-familie.de/survivalmom)
+
+## Beyond code
+
+I draw, make Blender models and animations, and create photos and videos. I also play Minecraft — my GitHub bio puts it this way: **“I play Minecraft but with Code.”**
+
+<details>
+<summary><strong>Coding activity · WakaTime</strong></summary>
+
+[View my WakaTime profile](https://wakatime.com/@e75f6892-560e-4206-ae97-04d59c14c0a0)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<sub>Tracked editor activity, when available; not a measure of experience or all project work.</sub>
+
+</details>
+
+---
+
+<sub>Built out of curiosity. Always learning by making.</sub>

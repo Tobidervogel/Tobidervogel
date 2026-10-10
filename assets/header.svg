@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Tobi / Tobidervogel</title><desc id="desc">Code, hardware and a creative streak. Personal projects from Germany.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#283441" stroke-width="1"/></pattern><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111b27"/><stop offset="1" stop-color="#202f3d"/></linearGradient></defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+<rect x="720" width="480" height="360" rx="20" fill="url(#grid)"/>
+<path d="M64 63h32" stroke="#ffac70" stroke-width="5"/>
+<text x="112" y="70" fill="#ffbc8e" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3">TOBIDERVOGEL / PERSONAL PROJECTS</text>
+<text x="60" y="177" fill="#f8f1e6" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="700">Hey, I’m Tobi.</text>
+<text x="64" y="232" fill="#c1cbd3" font-family="Arial,Helvetica,sans-serif" font-size="27">Code, hardware &amp; a creative streak.</text>
+<text x="64" y="307" fill="#a9b8c6" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2">GERMANY  /  BUILDING &amp; LEARNING SINCE 2021</text>
+<circle cx="978" cy="169" r="116" fill="#172430" stroke="#3a4b59"/>
+<circle cx="978" cy="169" r="91" fill="none" stroke="#3a4b59" stroke-dasharray="4 9"/>
+<path d="M859 126l112 39 111-70-61 114-53 29-31-57z" fill="#ffac70"/>
+<path d="M971 165l111-70-85 88-29 55z" fill="#ef8751"/>
+<path d="M909 249h138" stroke="#536571" stroke-width="2"/><circle cx="909" cy="249" r="4" fill="#ffac70"/>
+<text x="919" y="310" fill="#a9b8c6" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3">MAKE. LEARN. REPEAT.</text>
+</svg>

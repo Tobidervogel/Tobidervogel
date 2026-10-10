@@ -1,16 +1,42 @@
 name: WakaTime Stats Update
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Täglich um Mitternacht aktualisieren
+    - cron: "17 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: wakatime-readme
+  cancel-in-progress: false
 
 jobs:
   update-readme:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: athul/waka-readme@master
+      - name: Check WakaTime configuration
+        id: config
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          if [ -n "$WAKATIME_API_KEY" ]; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "WAKATIME_API_KEY is missing; skipping the update."
+          fi
+      # The action reads and commits through the GitHub API; no checkout required.
+      - name: Update coding activity
+        if: steps.config.outputs.enabled == 'true'
+        uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          COMMIT_MESSAGE: "docs: refresh WakaTime activity"
